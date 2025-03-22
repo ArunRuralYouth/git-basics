@@ -1,4 +1,4 @@
 Welcome to Git by Rural Youth of India! 2025
-By Ragu at Migritech, Chennai, India-636000.
+By Ragu at Migritech, Coimbatore, India-636000.
 
 we are explaining merge conflict scenarios (We learn 4 types of scenarios) - Currenlty we are learning on third scenario
