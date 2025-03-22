@@ -1,2 +1,4 @@
 Welcome to Git by Rural Youth of India!
 By Ragu at Migritech, Salem, India.
+
+we are explaining merge conflict scenarios 
